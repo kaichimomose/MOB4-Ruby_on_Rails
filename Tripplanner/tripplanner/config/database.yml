@@ -1,0 +1,7 @@
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: tripplanner_dev
+  pool: 5
+  username: kaichimomose
+  password:
